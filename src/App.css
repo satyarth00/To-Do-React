@@ -1,0 +1,30 @@
+h1{
+    font-weight: 700;
+    font-size: 45px;
+    margin: 10px;
+    margin-bottom: 25px;
+}
+.todo{
+    margin: 30px 10px 30px 10px;
+    color: darkblue;
+}
+.applist2{
+    margin: 5px;
+   
+}
+.applist1{
+    margin: 5px;
+}
+input{
+    width: 100%;
+}
+button{
+    width: 100%;
+}
+
+.container{
+    text-align: left;
+}
+.delete-button{
+    margin-left: 30px;
+}
